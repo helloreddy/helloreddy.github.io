@@ -69,7 +69,7 @@ margin-top: 60px; }
 a {
   color: #0c71e3;
   color: #4183c4;
-  color: #EF537F;
+  /*color: #EF537F;*/
 text-decoration: none; }
 a:hover {
 text-decoration: underline; }
