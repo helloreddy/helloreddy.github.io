@@ -78,11 +78,18 @@ h1 {
   font-weight: 700;
   line-height: 1.2;
   margin-bottom: 0;
+  color: #434749;
 }
 
 h2 {
   font-size: 20px;
-font-weight: 300; }
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 15px;
+  font-weight: 300;
+}
 
 h5 {
   color: #bdc3c7;
