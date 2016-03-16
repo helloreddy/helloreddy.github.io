@@ -1,2 +1,2 @@
-# uniquemido.github.io
-Uniquemido Github Site
+# midoxyz.github.io
+MIDOXYZ Github Site
