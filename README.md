@@ -1,2 +1,2 @@
-# midoxyz.github.io
-MIDOXYZ Github Site
+# helloreddy.github.io
+Hello Reddy Github Site
